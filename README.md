@@ -4,8 +4,7 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
 [![Korean Original](https://img.shields.io/badge/原書-%ED%95%9C%EA%B5%AD%EC%96%B4%ED%8C%90%20(Korean)-blue.svg)](https://github.com/eremes81/game-design-ai-practice)
-[![Print Edition (KR)](https://img.shields.io/badge/BOOKK-紙質版%20(韓語)-orange.svg)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)
-[![E-book (KR EPUB)](https://img.shields.io/badge/uPaper-EPUB%20(%E9%9F%93%E8%AA%9E)-6f42c1.svg)](https://eremes.upaper.kr/content/1217657)
+[![Amazon Kindle (EN)](https://img.shields.io/badge/Amazon%20Kindle-%249.99-FF9900.svg)](https://www.amazon.com/dp/B0H421TWBM)
 [![WikiDocs (KR)](https://img.shields.io/badge/WikiDocs-%E7%B7%9A%E4%B8%8A%E5%85%8D%E8%B2%BB%E9%96%B1%E8%AE%80%20(%E9%9F%93%E8%AA%9E)-1f8b4c.svg)](https://wikidocs.net/book/20216)
 
 **🌐 各語言版本：** [한국어 — 原書](https://github.com/eremes81/game-design-ai-practice) · [English](https://github.com/eremes81/game-design-ai-practice-en) · [日本語](https://github.com/eremes81/game-design-ai-practice-ja) · [ไทย](https://github.com/eremes81/game-design-ai-practice-th) · [Bahasa Indonesia](https://github.com/eremes81/game-design-ai-practice-id) · [簡體中文](https://github.com/eremes81/game-design-ai-practice-zh-hans) · **繁體中文**
@@ -50,7 +49,7 @@
 | ISBN | 979-11-12-21479-9 |
 | 出版日期 | 2026-06-11 |
 | 規格 | 876 頁 · 24 部分 + 附錄 A–N + 後記 |
-| 購買 | **[BOOKK 商店（韓語紙質版）](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** |
+| 購買 | **[Amazon Kindle（英文版）$9.99](https://www.amazon.com/dp/B0H421TWBM)** |
 
 本倉庫是同一本書的**繁體中文版（Markdown 源文）**，按下述許可協議釋出。韓語原書在 [eremes81/game-design-ai-practice](https://github.com/eremes81/game-design-ai-practice)。
 
