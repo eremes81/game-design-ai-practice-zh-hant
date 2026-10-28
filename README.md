@@ -9,6 +9,8 @@
 
 **🌐 各語言版本：** [한국어 — 原書](https://github.com/eremes81/game-design-ai-practice) · [English](https://github.com/eremes81/game-design-ai-practice-en) · [日本語](https://github.com/eremes81/game-design-ai-practice-ja) · [ไทย](https://github.com/eremes81/game-design-ai-practice-th) · [Bahasa Indonesia](https://github.com/eremes81/game-design-ai-practice-id) · [簡體中文](https://github.com/eremes81/game-design-ai-practice-zh-hans) · **繁體中文**
 
+📢 The author's second book, 『직장인을 위한 AI 업무 설계의 기술』 (Hanbit Media, Korean) — the author interview is out (in Korean) → https://www.youtube.com/watch?v=v8ygfpAAVQM
+
 > 🧰 **配套工具 — [Harness Starter Kit（骨架工具包）](https://github.com/eremes81/harness-starter-kit)**
 > 把本書 1.3（記憶·權限·設定）、第21部分（自我改進）、第24部分（營運）中搭建的**記憶、鉤子與復盤結構**打包成可直接執行的最小構成，下載整個資料夾用 AI 代理開啟即可。
 > 它原本是作者另一本書（面向一般職場）的附錄，但骨架與這裡講的是同一套。MIT 授權。
