@@ -1,6 +1,6 @@
 ---
 title: "附錄 M. 維度向量·嵌入——面向遊戲策劃的直覺"
-author: 이민수
+author: 이민수, 조지희
 status: v3
 ip_check: done
 ---

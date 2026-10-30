@@ -3,7 +3,7 @@ title: "附錄 K. 移植到其他 LLM·驅動框架(harness)"
 appendix: K
 status: v3
 written: 2026-06-06
-author: 이민수
+author: 이민수, 조지희
 version: v3
 ip_check: done
 ---

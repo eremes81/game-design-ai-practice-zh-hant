@@ -3,7 +3,7 @@ title: "附錄 J. 縮略語·術語集"
 appendix: J
 status: v3
 written: 2026-06-06
-author: 이민수
+author: 이민수, 조지희
 version: v3
 ---
 

@@ -4,7 +4,7 @@ part: 24
 chapter: 1
 status: v3
 version: v3
-author: 이민수
+author: 이민수, 조지희
 ---
 
 # 24.1 驗證系統 —— 用程式碼揪出一致性、連結與 stale 問題

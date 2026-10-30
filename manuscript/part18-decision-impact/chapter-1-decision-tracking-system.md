@@ -3,7 +3,7 @@ title: "18.1 決策追蹤系統"
 part: 18
 chapter: 1
 version: v3
-author: 이민수
+author: 이민수, 조지희
 ---
 
 # 18.1 決策追蹤系統

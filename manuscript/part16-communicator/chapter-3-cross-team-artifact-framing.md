@@ -3,7 +3,7 @@ title: "16.3 一個決定,三種包裝 —— 按職能包裝產出物的 framin
 part: 16
 chapter: 3
 version: v3
-author: 이민수
+author: 이민수, 조지희
 ---
 
 # 16.3 一個決定,三種包裝 —— 按職能包裝產出物的 framing

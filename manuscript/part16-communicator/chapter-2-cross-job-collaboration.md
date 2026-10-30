@@ -3,7 +3,7 @@ title: "16.2 與其他工種的協作 —— 把外部請求分入三條軌道�
 part: 16
 chapter: 2
 version: v3
-author: 이민수
+author: 이민수, 조지희
 ---
 
 # 16.2 與其他工種的協作 —— 把外部請求分入三條軌道（3-track）
